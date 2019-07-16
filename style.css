@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+.section1{
+	width:100%;
+	background-color:red;
+	hight:auto;
+	
+}
+.section1 p{
+	text-align:center;
+	margin:0;
+}
+.section2{
+	background-color:grey;
+	margin:0;
+	padding-top:2px;
+	height:30px;
+}
+.section2 li{
+	list-style:none;
+	display:inline;
+	
+	
+}
+.section2 ul{
+	
+	margin:0;
+	
+}
+.section2 a{
+	text-decoration:none;
+	margin:60px;
+	color:white;
+	padding-top:0;
+}
