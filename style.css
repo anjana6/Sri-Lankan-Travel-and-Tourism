@@ -33,3 +33,69 @@
 	color:white;
 	padding-top:0;
 }
+.category{
+	width:48%;
+	margin:auto;
+	height:130px;
+	
+}
+.ph{
+	float:left;
+	margin:2px;
+}
+.ph p{
+	text-align:center;
+	margin:0;
+	margin-bottom:2px;
+	
+}
+#p{
+	width:150px;
+	height:100px;
+}
+.section3{
+	width:60%;
+	margin:auto;
+	background-color:#1C8EE0;	
+	padding:10px;
+}
+.content2{
+	width:60%;
+	margin:auto;
+	height:260px;;
+}
+
+.section4{
+	background-color:#DBBB35;
+	width:430px;
+	float:left;
+	height:260px;
+	
+	
+}
+.section5{
+	width:350px;
+	background-color:#1123E8;
+	
+	float:left;
+	height:260px;
+	
+}
+#para{
+	margin-top:0;
+	margin-bottom:0;
+	margin:30px;
+}
+.section6{
+	width:100%;
+	height:auto;
+	margin:auto;
+	background-color:#CBC3C3;
+	padding:0px;
+	
+	
+}
+.section6 p{
+	text-align:center;
+	margin:0;
+}
