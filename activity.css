@@ -49,7 +49,7 @@ img{
 }
 h1{
 	color:red;
-	margin-left:29.5px;
+	margin-left:155.5px;
 }
 #pname{
 	text-align:center;
@@ -59,7 +59,8 @@ h1{
 #info{
 	width:300px;
 	margin:2px;
-	height:80px;
+	height:80PX;
+	
 	
 }
 #detail{
@@ -80,5 +81,7 @@ h1{
 	text-align:center;
 	margin:0;
 }
+
+
 
 
