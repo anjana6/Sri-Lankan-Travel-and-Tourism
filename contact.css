@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+.section1{
+	width:100%;
+	background-color:red;
+	hight:auto;
+	
+}
+.section1 p{
+	text-align:center;
+	margin:0;
+}
+.section2{
+	background-color:grey;
+	margin:0;
+	padding-top:2px;
+	height:30px;
+}
+.section2 li{
+	list-style:none;
+	display:inline;
+	
+	
+}
+.section2 ul{
+	
+	margin:0;
+	
+}
+.section2 a{
+	text-decoration:none;
+	margin:60px;
+	color:white;
+	padding-top:0;
+}
+h1{
+	color:red;
+	margin-left:29.5px;
+}
+table{
+	width:100%;
+}
+#pback{
+	background-color:orange;
+}
+.section6{
+	width:100%;
+	height:auto;
+	margin:auto;
+	background-color:#CBC3C3;
+	padding:0px;
+	
+	
+}
+.section6 p{
+	text-align:center;
+	margin:0;
+}
+#t{
+	color:#7613D7;
+}
+input[type="submit"]{
+	color:#5715C1;
+}
+
+
