@@ -8,8 +8,10 @@ if(isset($_REQUEST['submit'])){
 	$Interest = $_REQUEST['interest'];
 	$Message = $_REQUEST['message'];
 	
-	$insert_details = "insert into details values('".$Name"','".$Email"','".$Nationality"','".$Interest"','".$Message"')";
+	$insert_details = "insert into details values('".$Name."','".$Email."','".$Nationality."','".$Interest."','".$Message."')";
 	mysqli_query($con,$insert_details);
+	header("location:contact.html");
 }
+
 
 ?>
